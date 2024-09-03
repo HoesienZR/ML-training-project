@@ -1,65 +1,51 @@
 name of model is :
-svm
+SVM
+with features of just regular svm model and it s result 
+and this is model results
+accuracy score for train is :
+0.9392712550607287
+accuracy score for test is :
+0.8870967741935484
+recall score for train is :
+0.967741935483871
+recall score for test is :
+0.9622641509433962
+precision score for train is :
+0.963302752293578
+precision score for test is :
+0.9107142857142857
+--------------------------------------------------------------------------------
+name of model is :
+guassian nb
 with features of nothing
 and this is model results
-accuracy score is :
-0.8870967741935484
-recall score is :
-0.9803921568627451
-precision score is :
-0.8928571428571429
+accuracy score for train is :
+0.9068825910931174
+accuracy score for test is :
+0.9032258064516129
+recall score for train is :
+0.9674418604651163
+recall score for test is :
+0.9454545454545454
+precision score for train is :
+0.9285714285714286
+precision score for test is :
+0.9454545454545454
 --------------------------------------------------------------------------------
 name of model is :
-svm
+guassian
 with features of nothing
 and this is model results
-accuracy score is :
+accuracy score for train is :
+0.9109311740890689
+accuracy score for test is :
 0.8870967741935484
-recall score is :
-0.9803921568627451
-precision score is :
-0.8928571428571429
---------------------------------------------------------------------------------
-name of model is :
-svm
-with features of nothing
-and this is model results
-accuracy score is :
-0.8870967741935484
-recall score is :
-0.9803921568627451
-precision score is :
-0.8928571428571429
---------------------------------------------------------------------------------
-name of model is :
-svm
-with features of nothing iuvtuf uuftfty  ctrctrfuy   rydyutd r dtrdtrd tr trdtrdtr xt extrtrd tr rdtrtyc yu ydcydf yvugif trftyf  yuty dcty yt tuc  c 
-and this is model results
-accuracy score is :
-0.8870967741935484
-recall score is :
-0.9803921568627451
-precision score is :
-0.8928571428571429
--------------------------------------------------------------------------------name of model is :
-svm
-with features of nothing iuvtuf uuftfty  ctrctrfuy   rydyutd r dtrdtrd tr trdtrdtr xt extrtrd tr rdtrtyc yu ydcydf yvugif trftyf  yuty dcty yt tuc  c 
-and this is model results
-accuracy score is :
-0.8870967741935484
-recall score is :
-0.9423076923076923
-precision score is :
-0.9245283018867925
---------------------------------------------------------------------------------
-name of model is :
-svm
-with features of nothing iuvtuf uuftfty  ctrctrfuy   rydyutd r dtrdtrd tr trdtrdtr xt extrtrd tr rdtrtyc yu ydcydf yvugif trftyf  yuty dcty yt tuc  c 
-and this is model results
-accuracy score is :
-0.8870967741935484
-recall score is :
-0.9423076923076923
-precision score is :
-0.9245283018867925
+recall score for train is :
+0.9767441860465116
+recall score for test is :
+0.9636363636363636
+precision score for train is :
+0.9251101321585903
+precision score for test is :
+0.9137931034482759
 --------------------------------------------------------------------------------
